@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VScode-WorkSpace/CMakeTest/build",
+  "command": "\"D:\\Microsoft VS Code\\mingw64\\bin\\g++.exe\"  @CMakeFiles/my_hello.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\my_hello.dir\\src\\hello.cpp.obj -c D:\\VScode-WorkSpace\\CMakeTest\\src\\hello.cpp",
+  "file": "D:/VScode-WorkSpace/CMakeTest/src/hello.cpp",
+  "output": "CMakeFiles/my_hello.dir/src/hello.cpp.obj"
+}
+]
